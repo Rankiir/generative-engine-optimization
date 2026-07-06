@@ -1,0 +1,27 @@
+{
+  "name": "rankiir-generative-engine-optimization",
+  "version": "1.0.0",
+  "description": "Generative Engine Optimization tracks and optimizes your visibility in AI-generated answers and generative search engines",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "generative-engine-optimization",
+    "geo",
+    "aio",
+    "ai-seo",
+    "ai-overviews",
+    "llm-seo",
+    "seo",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Rankiir",
+  "license": "ISC",
+  "homepage": "https://rankiir.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rankiir/generative-engine-optimization.git"
+  }
+}
